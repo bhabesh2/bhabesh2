@@ -4,7 +4,7 @@ I'm a passionate Full Stack Web Developer currently in the learning phase. Welco
 
 ## About Me😎
 
-- 🔭 I’m currently working on expanding my knowledge in Full Stack Web Development.
+- 🔭 I’m currently working on expanding my knowledge in Web Development.
 - 🌱 I’m continuously learning new languages, frameworks, and technologies.
 - 👯 I’m looking to collaborate on web development projects to gain practical experience.
 - 📫 How to reach me: [bhabeshbharali75@gmail.com](mailto:bhabeshbharali75@gmail.com), [LinkedIn](https://www.linkedin.com/in/bhabesh-bharali-728175244/)
